@@ -1,0 +1,45 @@
+*.html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+*.html,
+div {
+    font-family: 'Alumni Sans Inline One', cursive;
+}
+
+body {
+    background-image: url('125294.jpg');
+    background-size: cover;
+    background-position: top;
+}
+
+h1,
+h2,
+h3,
+p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.centerbox {
+    width: 550px;
+    margin: auto;
+    border: 1px solid #fdfdfd;
+    padding: 20px;
+    margin-top: 10px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.sosial {
+    margin: 10px auto;
+}
+
+.avatar {
+    border-radius: 10%;
+}
